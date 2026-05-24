@@ -213,6 +213,7 @@ const STYLES = `
   .svc-star { color: #f59e0b; }
   .svc-rating-count { color: var(--ink-muted); font-size: 12px; }
 
+  
   .svc-pricing { display: flex; align-items: baseline; gap: 8px; }
   .svc-price {
     font-family: 'Cormorant Garamond', serif;
